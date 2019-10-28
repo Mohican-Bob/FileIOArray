@@ -28,6 +28,7 @@ namespace FileIOArray
 
         static void DisplayStudentInfo(string[] students)
         {
+
             Console.WriteLine();
             Console.WriteLine("Student Info");
             Console.WriteLine();
@@ -35,6 +36,8 @@ namespace FileIOArray
                 //
                 // display header
                 //
+                // stuff
+
            Console.WriteLine(
                 "First Name".PadRight(15) +
                 "Last Name".PadRight(15) +
